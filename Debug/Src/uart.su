@@ -1,0 +1,6 @@
+../Src/uart.c:3:5:__io_putchar	16	static
+../Src/uart.c:8:6:usart2_init	24	static
+../Src/uart.c:51:10:set_usartdiv_over16	16	static
+../Src/uart.c:56:10:set_usartdev_over8	16	static
+../Src/uart.c:61:6:usart2_transmit	16	static
+../Src/uart.c:70:6:usart2_receive	4	static

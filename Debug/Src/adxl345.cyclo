@@ -1,0 +1,2 @@
+../Src/adxl345.c:8:6:adxl345_init	1
+../Src/adxl345.c:28:6:adxl345_read	2

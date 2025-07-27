@@ -1,0 +1,7 @@
+../Src/spi.c:25:6:spi2_gpio_init	1
+../Src/spi.c:70:6:spi2_config_init	1
+../Src/spi.c:112:6:spi2_read_reg	5
+../Src/spi.c:138:6:spi2_burst_read_reg	4
+../Src/spi.c:159:6:spi2_write_reg	3
+../Src/spi.c:175:6:pb1_cs_enable	2
+../Src/spi.c:181:6:pb1_cs_disable	2
